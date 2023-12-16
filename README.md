@@ -1,4 +1,4 @@
-※アプリ起動のために下記手順を実施
+##アプリ起動のために下記手順を実施
 
 
 ### `git clone https://github.com/creatistor/Laravel_MemoApp_20231216.git`
@@ -8,7 +8,8 @@
 ### `npm run dev`
 ### `php artisan serve`
 
-.envファイルを作成し以下を添付する
+
+##.envファイルを作成し以下を添付する
 
 APP_NAME=todo_laravel
 APP_ENV=local
