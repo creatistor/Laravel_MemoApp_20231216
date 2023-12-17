@@ -1,4 +1,4 @@
-## アプリ起動のために下記手順を実施
+## 1.  アプリ起動のために下記手順を実施
 
 
 ### `git clone https://github.com/creatistor/Laravel_MemoApp_20231216.git`
@@ -10,4 +10,3 @@
 ### `php artisan serve`
 
 
-## .envファイルを作成し以下を添付する
