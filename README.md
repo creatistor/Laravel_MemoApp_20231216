@@ -2,7 +2,7 @@
 
 1. コマンドから入力
 ### `git clone https://github.com/creatistor/Laravel_MemoApp_20231216.git`
-### `cd Laravel_MemoApp_20231216.git`
+### `cd Laravel_MemoApp_20231216`
 ### `composer install`
 ### `npm install`
 ### `php artisan key:generate`
@@ -15,4 +15,5 @@
 5. 左サイドメニューの[新規作成]を押下
 6. [データベース名]を[laravel],右側のプルダウンは[utf8mb4_general_ci] を選択して[作成]を押下する
 
-7. `php artisan migrate`
+7. Laravel_MemoApp_20231216内で下記コマンドを実行(データベースにmigrationを行う)
+### `php artisan migrate`
