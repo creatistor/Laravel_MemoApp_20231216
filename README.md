@@ -1,6 +1,6 @@
-## 1.  アプリ起動のために下記手順を実施
+## アプリ起動のために下記手順を実施
 
-
+1. コマンドから入力
 ### `git clone https://github.com/creatistor/Laravel_MemoApp_20231216.git`
 ### `cd Laravel_MemoApp_20231216.git`
 ### `composer install`
@@ -9,4 +9,4 @@
 ### `npm run dev`
 ### `php artisan serve`
 
-
+2. 
